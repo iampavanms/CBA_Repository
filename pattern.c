@@ -3,6 +3,8 @@
 int main()
 {
   int n=10, c, k, space = 1;
+
+  
   space = n - 1;
  
   for (k = 1; k <= n; k++)
